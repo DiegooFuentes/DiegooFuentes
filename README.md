@@ -8,7 +8,7 @@ I've been learning programming for about 6 months and it has become my passion. 
 
 * 🌍  I'm based in Santiago, Chile.
 * 🚀  I'm currently working on [FindMyDev](http://github.com/DiegooFuentes/FindMyDev)
-* 🧠  I'm currently leaning mySQL and SQL Server.
+* 🧠  I'm currently learning mySQL and SQL Server.
 
 ### Skills
 
