@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been learning programming for about 6 months and it has become my passion. I'm very excited to keep learning new technologies and developing more projects!
+I've been learning programming for about a year and it has become my passion. I'm very excited to keep learning new technologies and developing more projects!
 
 * 🌍  I'm based in Santiago, Chile.
 * 🚀  I'm currently working on a home banking app called [Finance it Bank](https://github.com/DiegooFuentes/FinaceIT_Bank)
-* 🧠  I'm currently learning Python, Pytest and Django.
+* 🧠  I'm currently studying software engineering.
 
 ### Skills
 
