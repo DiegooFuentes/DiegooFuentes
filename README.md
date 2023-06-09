@@ -8,7 +8,7 @@ I've been learning programming for about a year and it has become my passion. I'
 
 * 🌍  I'm based in Santiago, Chile.
 * 🚀  I'm currently working on a home banking app called [Finance it Bank](https://github.com/DiegooFuentes/FinaceIT_Bank)
-* 🧠  I'm currently studying software engineering.
+* 🧠  I'm currently studying software engineering and learning Python.
 
 ### Skills
 
