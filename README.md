@@ -13,7 +13,7 @@ I've been learning programming for about a year and it has become my passion. I'
 * 🧠  I'm currently studying software engineering.
 * 🛜  Here's my personal website/portfolio: [www.diegofuentes.dev](https://www.diegofuentes.dev)
 -->
-
+<!--
 ### Skills
 
 <p align="left">
@@ -35,7 +35,7 @@ I've been learning programming for about a year and it has become my passion. I'
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DiegooFuentes"><img src="https://github-readme-stats.vercel.app/api?username=DiegooFuentes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegooFuentes's GitHub stats" /></a>
--->
+--->
 
 <!---
 - 👋 Hi, I’m @DiegooFuentes
@@ -46,4 +46,4 @@ I've been learning programming for about a year and it has become my passion. I'
 DiegooFuentes/DiegooFuentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--->
+
